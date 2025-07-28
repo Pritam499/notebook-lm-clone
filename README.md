@@ -98,5 +98,3 @@ npm run dev
 Upload a PDF, ask questions, and interact with the document intelligently.
 
 ---
-
-Let me know if you'd like to add sections like **Tech Stack**, **Features**, or **Contributing**.
