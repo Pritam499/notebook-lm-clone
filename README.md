@@ -13,7 +13,7 @@ A local clone of a notebook-style PDF question-answering app using LLMs.
 ### 📁 Clone the Repository
 
 ```bash
-git clone https://Pritam499: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@github.com/Pritam499/notebook-lm-clone.git
+git clone https://github.com/Pritam499/notebook-lm-clone.git
 cd notebook-lm-clone
 ```
 
